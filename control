@@ -1,8 +1,8 @@
 Package: com.wrp1002.homebarnoedgeprotect
 Name: HomeBarNoEdgeProtect
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Disable double swipe on HomeBar in some apps
+Description: Disable HomeBar double swipe to close apps
 Maintainer: Wes <wes.hamster@gmail.com>
 Author: Wes <wes.hamster@gmail.com>
 Section: Tweaks
